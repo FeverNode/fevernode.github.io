@@ -1,0 +1,2878 @@
+[
+  {
+      "name": "张飞",
+      "enName": "Zhang Fei",
+      "soldier": "枪",
+      "details": [
+          "河北",
+          "武将",
+          "蜀",
+          "男",
+          "S1",
+          "名将"
+      ],
+      "skills": {
+          "pugong": "倒地",
+          "nuqi": "浮空",
+          "zhuiji": [
+              "倒地",
+              "击退"
+          ],
+          "beidong": "抵御<span>少量</span>次数后进行反击，造成<span>大量</span>伤害",
+          "yuanzhu": "我方将领抵御<span>中量</span>次数后进行反击，造成<span>少量</span>伤害"
+      },
+      "attributes": {
+          "wu": 98,
+          "zhi": 33,
+          "nai": 87,
+          "ti": 108
+      },
+      "professions": [
+          "军师",
+          "将军",
+          "统帅",
+          "农民",
+          "铁匠",
+          "教师",
+          "工人",
+          "保安"
+      ],
+      "description": "中规中矩，五虎合体技素材，必抽★★★★"
+  },
+  {
+      "name": "关羽",
+      "enName": "Guan Yu",
+      "soldier": "刀",
+      "details": [
+          "河北",
+          "武将",
+          "蜀",
+          "男",
+          "S1",
+          "名将"
+      ],
+      "skills": {
+          "pugong": "倒地",
+          "nuqi": "浮空",
+          "zhuiji": [
+              "浮空",
+              "浮空"
+          ],
+          "beidong": "追击可以额外释放<span>3次</span>",
+          "yuanzhu": "自身追击可以额外释放<span>3次</span>"
+      },
+      "attributes": {
+          "wu": 99,
+          "zhi": 82,
+          "nai": 89,
+          "ti": 109
+      },
+      "professions": [
+          "军师",
+          "将军",
+          "统帅",
+          "农民",
+          "厨师",
+          "铁匠",
+          "教师",
+          "工人",
+          "保安"
+      ],
+      "description": "PVP、PVE前中期强力，五虎合体技核心，必抽★★★★★"
+  },
+  {
+      "name": "赵云",
+      "enName": "Zhao Yun",
+      "soldier": "枪",
+      "details": [
+          "河北",
+          "武将",
+          "蜀",
+          "男",
+          "S1",
+          "名将(四皇)"
+      ],
+      "skills": {
+          "pugong": "浮空",
+          "nuqi": "倒地",
+          "zhuiji": [
+              "浮空",
+              "倒地"
+          ],
+          "beidong": "破防时会触发<span>3秒</span>闪避，<span>微量</span>冷却时间",
+          "yuanzhu": "我方将领破防时会触发<span>3秒</span>闪避，<span>少量</span>冷却时间"
+      },
+      "attributes": {
+          "wu": 97,
+          "zhi": 76,
+          "nai": 92,
+          "ti": 90
+      },
+      "professions": [
+          "军师",
+          "将军",
+          "统帅",
+          "农民",
+          "铁匠",
+          "教师",
+          "工人",
+          "保安"
+      ],
+      "description": "四皇之一，大招强制倒地，五虎合体技援助，必抽★★★★"
+  },
+  {
+      "name": "刘备",
+      "enName": "Liu Bei",
+      "soldier": "盾",
+      "details": [
+          "河北",
+          "武将",
+          "蜀",
+          "男",
+          "S1",
+          "名将"
+      ],
+      "skills": {
+          "pugong": "倒地",
+          "nuqi": "倒地",
+          "zhuiji": [
+              "击退",
+              "浮空"
+          ],
+          "beidong": "敌方将领怒气恢复速度<span>大量</span>减少",
+          "yuanzhu": "敌方将领怒气恢复速度<span>大量</span>减少"
+      },
+      "attributes": {
+          "wu": 89,
+          "zhi": 80,
+          "nai": 91,
+          "ti": 111
+      },
+      "professions": [
+          "将军",
+          "统帅",
+          "农民",
+          "铁匠",
+          "教师",
+          "工人",
+          "保安"
+      ],
+      "description": "S3被孙权替代，随缘抽★★★"
+  },
+  {
+      "name": "诸葛亮",
+      "enName": "Zhu Geliang",
+      "soldier": "枪",
+      "details": [
+          "中原",
+          "谋士",
+          "蜀",
+          "男",
+          "S1",
+          "限定名将"
+      ],
+      "skills": {
+          "pugong": "浮空",
+          "nuqi": "浮空",
+          "zhuiji": [
+              "倒地",
+              "浮空"
+          ],
+          "beidong": "释放追击时，我方将领怒气<span>大量</span>提高",
+          "yuanzhu": "自身释放追击时，我方将领怒气<span>大量</span>提高"
+      },
+      "attributes": {
+          "wu": 46,
+          "zhi": 100,
+          "nai": 86,
+          "ti": 99
+      },
+      "professions": [
+          "军师",
+          "将军",
+          "统帅",
+          "农民",
+          "厨师",
+          "销售",
+          "教师"
+      ],
+      "description": "即使欧洲没有耶路撒冷，三国也不能没有诸葛亮，必抽★★★★★"
+  },
+  {
+      "name": "马超",
+      "enName": "Ma Chao",
+      "soldier": "枪",
+      "details": [
+          "西凉",
+          "武将",
+          "蜀",
+          "男",
+          "S2",
+          "限定名将"
+      ],
+      "skills": {
+          "pugong": "浮空",
+          "nuqi": "击退",
+          "zhuiji": [
+              "击退",
+              "击退"
+          ],
+          "beidong": "攻击破防敌人时，暴击率<span>大量</span>提高",
+          "yuanzhu": "我方将领攻击破防敌人时，暴击率<span>中量</span>提高"
+      },
+      "attributes": {
+          "wu": 98,
+          "zhi": 44,
+          "nai": 92,
+          "ti": 106
+      },
+      "professions": [
+          "军师",
+          "将军",
+          "统帅",
+          "农民",
+          "铁匠",
+          "教师",
+          "工人",
+          "保安"
+      ],
+      "description": "大招强制击退，追击闪避，被动暴击，五虎合体技核心，必抽★★★★★"
+  },
+  {
+      "name": "黄忠",
+      "enName": "Huang Zhong",
+      "soldier": "弓",
+      "details": [
+          "中原",
+          "武将",
+          "蜀",
+          "男",
+          "S2",
+          "名将"
+      ],
+      "skills": {
+          "pugong": "击退",
+          "nuqi": "击退",
+          "zhuiji": [
+              "击退",
+              "浮空"
+          ],
+          "beidong": "普攻和大招射出两箭的概率<span>中量</span>提高",
+          "yuanzhu": "自身大招射出两箭的概率<span>巨量</span>提高"
+      },
+      "attributes": {
+          "wu": 96,
+          "zhi": 63,
+          "nai": 87,
+          "ti": 108
+      },
+      "professions": [
+          "军师",
+          "将军",
+          "统帅",
+          "农民",
+          "铁匠",
+          "教师",
+          "工人",
+          "保安"
+      ],
+      "description": "大招跟踪，五虎合体技素材，必抽★★★★"
+  },
+  {
+      "name": "庞统",
+      "enName": "Pang Tong",
+      "soldier": "刀",
+      "details": [
+          "巴蜀",
+          "谋士",
+          "蜀",
+          "男",
+          "S3",
+          "限定名将"
+      ],
+      "skills": {
+          "pugong": "击退",
+          "nuqi": "燃烧",
+          "zhuiji": [
+              "击退",
+              "浮空"
+          ],
+          "beidong": "每场战斗最多复活<span>3次</span>，恢复<span>中量</span>血量，<span>少量</span>冷却时间",
+          "yuanzhu": "我方将领每场战斗最多复活<span>3次</span>，次数共享，恢复<span>中量</span>血量，<span>少量</span>冷却时间"
+      },
+      "attributes": {
+          "wu": 64,
+          "zhi": 99,
+          "nai": 87,
+          "ti": 93
+      },
+      "professions": [
+          "军师",
+          "将军",
+          "统帅",
+          "农民",
+          "厨师",
+          "销售",
+          "教师"
+      ],
+      "description": "大招处于无敌状态，被动复活，火凤合体技核心，必抽★★★★"
+  },
+  {
+      "name": "黄月英",
+      "enName": "Huang Yueying",
+      "soldier": "弓",
+      "details": [
+          "巴蜀",
+          "谋士",
+          "蜀",
+          "女",
+          "S3",
+          "名将"
+      ],
+      "skills": {
+          "pugong": "击退",
+          "nuqi": "击退",
+          "zhuiji": [
+              "浮空",
+              "击退"
+          ],
+          "beidong": "追击的敌人怒气<span>大量</span>减少",
+          "yuanzhu": "自身追击的敌人怒气<span>大量</span>减少"
+      },
+      "attributes": {
+          "wu": 72,
+          "zhi": 93,
+          "nai": 88,
+          "ti": 92
+      },
+      "professions": [
+          "军师",
+          "将军",
+          "统帅",
+          "农民",
+          "厨师",
+          "销售",
+          "教师"
+      ],
+      "description": "大招强制破防，女团合体技核心，必抽★★★★"
+  },
+  {
+      "name": "姜维",
+      "enName": "Jiang Wei",
+      "soldier": "枪",
+      "details": [
+          "西凉",
+          "武将",
+          "蜀",
+          "男",
+          "问鼎",
+          "名将(稀有)"
+      ],
+      "skills": {
+          "pugong": "浮空",
+          "nuqi": "强化我方将领伤害，普攻必定破防，免疫敌方追击",
+          "zhuiji": [
+              "浮空",
+              "倒地"
+          ],
+          "beidong": "每隔<span>少量</span>时间，我方将领挨揍敌方2名将领平摊伤害，持续<span>中量</span>时间",
+          "yuanzhu": "每隔<span>少量</span>时间，我方将领挨揍敌方2名将领平摊伤害，持续<span>中量</span>时间"
+      },
+      "attributes": {
+          "wu": 94,
+          "zhi": 92,
+          "nai": 91,
+          "ti": 112
+      },
+      "professions": [
+          "军师",
+          "将军",
+          "统帅",
+          "农民",
+          "厨师",
+          "销售",
+          "铁匠",
+          "教师",
+          "工人",
+          "保安"
+      ],
+      "description": "大招强度离谱，孙刘联盟核心，必抽★★★★★"
+  },
+  {
+      "name": "法正",
+      "enName": "Fa Zheng",
+      "soldier": "刀",
+      "details": [
+          "中原",
+          "谋士",
+          "蜀",
+          "男",
+          "问鼎",
+          "限定名将"
+      ],
+      "skills": {
+          "pugong": "击退",
+          "nuqi": "代替我方将领被追击",
+          "zhuiji": [
+              "击退",
+              "击退"
+          ],
+          "beidong": "挨揍额外恢复<span>巨量</span>怒气",
+          "yuanzhu": "我方将领挨揍额外恢复<span>大量</span>怒气"
+      },
+      "attributes": {
+          "wu": 47,
+          "zhi": 96,
+          "nai": 87,
+          "ti": 90
+      },
+      "professions": [
+          "军师",
+          "将军",
+          "统帅",
+          "农民",
+          "厨师",
+          "销售",
+          "教师"
+      ],
+      "description": "中规中矩，随缘抽★★★"
+  },
+  {
+      "name": "祝融",
+      "enName": "Zhu Rong",
+      "soldier": "盾",
+      "details": [
+          "巴蜀",
+          "武将",
+          "蜀",
+          "女",
+          "问鼎",
+          "限定名将(稀有)"
+      ],
+      "skills": {
+          "pugong": "击退",
+          "nuqi": "浮空",
+          "zhuiji": [
+              "浮空",
+              "击退"
+          ],
+          "beidong": "造成<span>中量</span>伤害次数后额外造成小范围<span>大量</span>伤害",
+          "yuanzhu": "我方女将领造成<span>大量</span>伤害次数后额外造成小范围<span>大量</span>伤害"
+      },
+      "attributes": {
+          "wu": 93,
+          "zhi": 76,
+          "nai": 92,
+          "ti": 112
+      },
+      "professions": [
+          "军师",
+          "将军",
+          "统帅",
+          "农民",
+          "铁匠",
+          "教师",
+          "工人",
+          "保安"
+      ],
+      "description": "黑皮人妻辣妹，女团合体技核心，必抽★★★★"
+  },
+  {
+      "name": "徐庶",
+      "enName": "Xu Shu",
+      "soldier": "刀",
+      "details": [
+          "未知",
+          "谋士",
+          "蜀",
+          "男",
+          "S1",
+          "狗粮"
+      ],
+      "skills": {
+          "pugong": "击退",
+          "nuqi": "范围伤害",
+          "zhuiji": [
+              "击退",
+              "无"
+          ],
+          "beidong": "我方全体攻击<span>中量</span>增加",
+          "yuanzhu": "我方全体攻击<span>中量</span>增加"
+      },
+      "attributes": {
+          "wu": 64,
+          "zhi": 92,
+          "nai": 69,
+          "ti": 66
+      },
+      "professions": [
+          "军师",
+          "将军",
+          "统帅",
+          "农民",
+          "厨师",
+          "销售",
+          "教师"
+      ],
+      "description": ""
+  },
+  {
+      "name": "魏延",
+      "enName": "Wei Yan",
+      "soldier": "枪",
+      "details": [
+          "未知",
+          "武将",
+          "蜀",
+          "男",
+          "S1",
+          "狗粮"
+      ],
+      "skills": {
+          "pugong": "浮空",
+          "nuqi": "范围伤害",
+          "zhuiji": [
+              "击退",
+              "无"
+          ],
+          "beidong": "血量大于50%，攻击<span>中量</span>增加",
+          "yuanzhu": "我方全体攻击<span>中量</span>增加"
+      },
+      "attributes": {
+          "wu": 92,
+          "zhi": 69,
+          "nai": 81,
+          "ti": 85
+      },
+      "professions": [
+          "军师",
+          "将军",
+          "统帅",
+          "农民",
+          "铁匠",
+          "教师",
+          "工人",
+          "保安"
+      ],
+      "description": ""
+  },
+  {
+      "name": "孟获",
+      "enName": "Meng Huo",
+      "soldier": "盾",
+      "details": [
+          "未知",
+          "武将",
+          "蜀",
+          "男",
+          "S1",
+          "狗粮"
+      ],
+      "skills": {
+          "pugong": "倒地",
+          "nuqi": "倒地",
+          "zhuiji": [
+              "击退",
+              "无"
+          ],
+          "beidong": "攻击<span>中量</span>增加",
+          "yuanzhu": "我方全体攻击<span>中量</span>增加"
+      },
+      "attributes": {
+          "wu": 86,
+          "zhi": 42,
+          "nai": 79,
+          "ti": 93
+      },
+      "professions": [
+          "农民",
+          "铁匠",
+          "教师",
+          "工人",
+          "保安"
+      ],
+      "description": ""
+  },
+  {
+      "name": "关平",
+      "enName": "Guan Ping",
+      "soldier": "刀",
+      "details": [
+          "未知",
+          "武将",
+          "蜀",
+          "男",
+          "S1",
+          "废物"
+      ],
+      "skills": {
+          "pugong": "倒地",
+          "nuqi": "浮空",
+          "zhuiji": [
+
+          ],
+          "beidong": "",
+          "yuanzhu": ""
+      },
+      "attributes": {
+          "wu": 78,
+          "zhi": 68,
+          "nai": 69,
+          "ti": 75
+      },
+      "professions": [
+
+      ],
+      "description": ""
+  },
+  {
+      "name": "马良",
+      "enName": "Ma Liang",
+      "soldier": "弓",
+      "details": [
+          "未知",
+          "谋士",
+          "蜀",
+          "男",
+          "S1",
+          "废物"
+      ],
+      "skills": {
+          "pugong": "倒地",
+          "nuqi": "浮空",
+          "zhuiji": [
+
+          ],
+          "beidong": "",
+          "yuanzhu": ""
+      },
+      "attributes": {
+          "wu": 23,
+          "zhi": 80,
+          "nai": 57,
+          "ti": 58
+      },
+      "professions": [
+
+      ],
+      "description": ""
+  },
+  {
+      "name": "廖化",
+      "enName": "Liao Hua",
+      "soldier": "枪",
+      "details": [
+          "未知",
+          "武将",
+          "蜀",
+          "男",
+          "S1",
+          "废物"
+      ],
+      "skills": {
+          "pugong": "浮空",
+          "nuqi": "",
+          "zhuiji": [
+
+          ],
+          "beidong": "",
+          "yuanzhu": ""
+      },
+      "attributes": {
+          "wu": 66,
+          "zhi": 59,
+          "nai": 60,
+          "ti": 63
+      },
+      "professions": [
+
+      ],
+      "description": ""
+  },
+  {
+      "name": "周仓",
+      "enName": "Zhou Cang",
+      "soldier": "刀",
+      "details": [
+          "未知",
+          "武将",
+          "蜀",
+          "男",
+          "S1",
+          "废物"
+      ],
+      "skills": {
+          "pugong": "倒地",
+          "nuqi": "",
+          "zhuiji": [
+
+          ],
+          "beidong": "",
+          "yuanzhu": ""
+      },
+      "attributes": {
+          "wu": 68,
+          "zhi": 42,
+          "nai": 59,
+          "ti": 62
+      },
+      "professions": [
+
+      ],
+      "description": ""
+  },
+  {
+      "name": "曹操",
+      "enName": "Cao cao",
+      "soldier": "盾",
+      "details": [
+          "中原",
+          "谋士",
+          "魏",
+          "男",
+          "S1",
+          "名将(四皇)"
+      ],
+      "skills": {
+          "pugong": "倒地",
+          "nuqi": "倒地",
+          "zhuiji": [
+              "倒地",
+              "浮空"
+          ],
+          "beidong": "我方魏国将领怒气恢复速度<span>大量</span>增加",
+          "yuanzhu": "我方魏国将领怒气恢复速度<span>大量</span>增加"
+      },
+      "attributes": {
+          "wu": 85,
+          "zhi": 94,
+          "nai": 92,
+          "ti": 93
+      },
+      "professions": [
+          "军师",
+          "将军",
+          "统帅",
+          "农民",
+          "厨师",
+          "销售",
+          "铁匠",
+          "教师",
+          "工人",
+          "保安"
+      ],
+      "description": "四皇之一，魏国老大，龙吟合体技核心，必抽★★★★★"
+  },
+  {
+      "name": "夏侯惇",
+      "enName": "Xia Houdun",
+      "soldier": "盾",
+      "details": [
+          "中原",
+          "武将",
+          "魏",
+          "男",
+          "S1",
+          "名将"
+      ],
+      "skills": {
+          "pugong": "浮空",
+          "nuqi": "击退",
+          "zhuiji": [
+              "倒地",
+              "倒地"
+          ],
+          "beidong": "释放追击时，怒气<span>大量</span>增加",
+          "yuanzhu": "我方将领释放追击时，夏侯惇怒气<span>中量</span>增加"
+      },
+      "attributes": {
+          "wu": 90,
+          "zhi": 65,
+          "nai": 90,
+          "ti": 111
+      },
+      "professions": [
+          "军师",
+          "将军",
+          "统帅",
+          "农民",
+          "铁匠",
+          "教师",
+          "工人",
+          "保安"
+      ],
+      "description": "大招抓取仇恨对象(概率小兵)，能把吕布、高顺拽下来的男人，S3逐步被替代，随缘抽★★★"
+  },
+  {
+      "name": "郭嘉",
+      "enName": "Guo Jia",
+      "soldier": "弓",
+      "details": [
+          "中原",
+          "谋士",
+          "魏",
+          "男",
+          "S1",
+          "限定名将"
+      ],
+      "skills": {
+          "pugong": "浮空",
+          "nuqi": "浮空",
+          "zhuiji": [
+              "浮空",
+              "倒地"
+          ],
+          "beidong": "破防时会瞬移到其他位置，<span>微量</span>冷却时间",
+          "yuanzhu": "我方将领破防时会瞬移到其他位置，<span>少量</span>冷却时间"
+      },
+      "attributes": {
+          "wu": 35,
+          "zhi": 99,
+          "nai": 91,
+          "ti": 89
+      },
+      "professions": [
+          "军师",
+          "将军",
+          "统帅",
+          "农民",
+          "厨师",
+          "销售",
+          "教师"
+      ],
+      "description": "追思嘉勋，实不可忘，必抽★★★★★"
+  },
+  {
+      "name": "夏侯渊",
+      "enName": "Xia Houyuan",
+      "soldier": "弓",
+      "details": [
+          "中原",
+          "武将",
+          "魏",
+          "男",
+          "S1",
+          "名将"
+      ],
+      "skills": {
+          "pugong": "击退",
+          "nuqi": "击退",
+          "zhuiji": [
+              "击退",
+              "击退"
+          ],
+          "beidong": "连射6次后，攻速<span>大量</span>增加，持续2秒",
+          "yuanzhu": "我方将领连续攻击<span>少量</span>次数后，攻速<span>大量</span>增加，持续2秒"
+      },
+      "attributes": {
+          "wu": 95,
+          "zhi": 68,
+          "nai": 88,
+          "ti": 108
+      },
+      "professions": [
+          "军师",
+          "将军",
+          "统帅",
+          "农民",
+          "铁匠",
+          "教师",
+          "工人",
+          "保安"
+      ],
+      "description": "废物点心，凑人头的，别抽"
+  },
+  {
+      "name": "许褚",
+      "enName": "Xu Chu",
+      "soldier": "刀",
+      "details": [
+          "中原",
+          "武将",
+          "魏",
+          "男",
+          "S1",
+          "名将"
+      ],
+      "skills": {
+          "pugong": "倒地",
+          "nuqi": "击退",
+          "zhuiji": [
+              "击退",
+              "浮空"
+          ],
+          "beidong": "血量大于40%，暴击率<span>大量</span>增加",
+          "yuanzhu": "我方将领血量大于40%，暴击率<span>中量</span>增加"
+      },
+      "attributes": {
+          "wu": 96,
+          "zhi": 36,
+          "nai": 85,
+          "ti": 110
+      },
+      "professions": [
+          "军师",
+          "将军",
+          "统帅",
+          "农民",
+          "铁匠",
+          "教师",
+          "工人",
+          "保安"
+      ],
+      "description": "进不去龙吟合体技？可以去龙舞蝶合体技，随缘抽★★★"
+  },
+  {
+      "name": "张辽",
+      "enName": "Zhang Liao",
+      "soldier": "枪",
+      "details": [
+          "中原",
+          "武将",
+          "魏",
+          "男",
+          "S2",
+          "名将(稀有)"
+      ],
+      "skills": {
+          "pugong": "倒地",
+          "nuqi": "浮空",
+          "zhuiji": [
+              "浮空",
+              "击退"
+          ],
+          "beidong": "释放大招后获得霸体，持续<span>中量</span>时间",
+          "yuanzhu": "我方将领释放大招后获得霸体，持续<span>中量</span>时间，<span>中量</span>冷却时间"
+      },
+      "attributes": {
+          "wu": 97,
+          "zhi": 82,
+          "nai": 92,
+          "ti": 90
+      },
+      "professions": [
+          "军师",
+          "将军",
+          "统帅",
+          "农民",
+          "厨师",
+          "铁匠",
+          "教师",
+          "工人",
+          "保安"
+      ],
+      "description": "S2的神，追击回血，被动霸体，可惜后面闪避和防追击的将领越来越多，必抽★★★★"
+  },
+  {
+      "name": "典韦",
+      "enName": "Dian Wei",
+      "soldier": "刀",
+      "details": [
+          "中原",
+          "武将",
+          "魏",
+          "男",
+          "S2",
+          "限定名将"
+      ],
+      "skills": {
+          "pugong": "倒地",
+          "nuqi": "击退",
+          "zhuiji": [
+              "击退",
+              "倒地"
+          ],
+          "beidong": "怒气恢复速度<span>大量</span>增加",
+          "yuanzhu": "自身怒气恢复速度<span>大量</span>增加"
+      },
+      "attributes": {
+          "wu": 98,
+          "zhi": 53,
+          "nai": 85,
+          "ti": 115
+      },
+      "professions": [
+          "军师",
+          "将军",
+          "统帅",
+          "农民",
+          "铁匠",
+          "教师",
+          "工人",
+          "保安"
+      ],
+      "description": "你和那个夏侯渊你俩好像傻篮子，别抽"
+  },
+  {
+      "name": "荀彧",
+      "enName": "Xun Yu",
+      "soldier": "枪",
+      "details": [
+          "中原",
+          "谋士",
+          "魏",
+          "男",
+          "S3",
+          "限定名将"
+      ],
+      "skills": {
+          "pugong": "倒地",
+          "nuqi": "倒地",
+          "zhuiji": [
+              "浮空",
+              "倒地"
+          ],
+          "beidong": "每隔<span>中量</span>时间，血量最低的将领获得霸体，持续<span>中量</span>时间",
+          "yuanzhu": "每隔<span>中量</span>时间，血量最低的将领获得霸体，持续<span>中量</span>时间"
+      },
+      "attributes": {
+          "wu": 45,
+          "zhi": 97,
+          "nai": 88,
+          "ti": 94
+      },
+      "professions": [
+          "军师",
+          "将军",
+          "统帅",
+          "农民",
+          "厨师",
+          "销售",
+          "教师"
+      ],
+      "description": "大招中毒，龙吟、智定合体技素材，必抽★★★★"
+  },
+  {
+      "name": "曹仁",
+      "enName": "Cao Ren",
+      "soldier": "盾",
+      "details": [
+          "中原",
+          "武将",
+          "魏",
+          "男",
+          "S3",
+          "名将"
+      ],
+      "skills": {
+          "pugong": "倒地",
+          "nuqi": "浮空",
+          "zhuiji": [
+              "击退",
+              "倒地"
+          ],
+          "beidong": "每隔<span>中量</span>时间，血量不是最低的将领获得闪避，持续<span>中量</span>时间",
+          "yuanzhu": "每隔<span>中量</span>时间，血量不是最低的将领获得闪避，持续<span>中量</span>时间"
+      },
+      "attributes": {
+          "wu": 87,
+          "zhi": 74,
+          "nai": 96,
+          "ti": 108
+      },
+      "professions": [
+          "农民",
+          "铁匠",
+          "教师",
+          "工人",
+          "保安"
+      ],
+      "description": "配合荀彧，龙吟合体技素材，问鼎不能读书，随缘抽★★★"
+  },
+  {
+      "name": "甄姬",
+      "enName": "Zhen Ji",
+      "soldier": "弓",
+      "details": [
+          "中原",
+          "谋士",
+          "魏",
+          "女",
+          "S3",
+          "限定名将(稀有)"
+      ],
+      "skills": {
+          "pugong": "击退",
+          "nuqi": "魅惑",
+          "zhuiji": [
+              "击退",
+              "浮空"
+          ],
+          "beidong": "造成<span>少量</span>伤害次数后额外造成小范围<span>少量</span>伤害，附带中毒",
+          "yuanzhu": "我方女将领造成<span>中量</span>伤害次数后额外造成小范围<span>微量</span>伤害，附带中毒"
+      },
+      "attributes": {
+          "wu": 39,
+          "zhi": 90,
+          "nai": 92,
+          "ti": 97
+      },
+      "professions": [
+          "军师",
+          "将军",
+          "统帅",
+          "农民",
+          "厨师",
+          "销售",
+          "教师"
+      ],
+      "description": "大招魅惑，普攻中毒，女团合体技核心，必抽★★★★★"
+  },
+  {
+      "name": "司马懿",
+      "enName": "Si Mayi",
+      "soldier": "盾",
+      "details": [
+          "中原",
+          "谋士",
+          "魏",
+          "男",
+          "问鼎",
+          "限定名将"
+      ],
+      "skills": {
+          "pugong": "击退",
+          "nuqi": "紫焰",
+          "zhuiji": [
+              "击退",
+              "浮空"
+          ],
+          "beidong": "我方将领挨揍，恢复<span>中量</span>怒气和血量",
+          "yuanzhu": "我方将领挨揍，恢复<span>大量</span>怒气"
+      },
+      "attributes": {
+          "wu": 63,
+          "zhi": 99,
+          "nai": 90,
+          "ti": 96
+      },
+      "professions": [
+          "军师",
+          "将军",
+          "统帅",
+          "农民",
+          "厨师",
+          "销售",
+          "教师"
+      ],
+      "description": "不解释，必抽★★★★★"
+  },
+  {
+      "name": "邓艾",
+      "enName": "Deng Ai",
+      "soldier": "刀",
+      "details": [
+          "中原",
+          "武将",
+          "魏",
+          "男",
+          "问鼎",
+          "名将"
+      ],
+      "skills": {
+          "pugong": "倒地",
+          "nuqi": "倒地",
+          "zhuiji": [
+              "浮空",
+              "倒地"
+          ],
+          "beidong": "每隔<span>少量</span>时间，血量最低的将领释放艾克大招，没准能复活",
+          "yuanzhu": "每隔<span>少量</span>时间，血量最低的将领释放艾克大招，没准能复活"
+      },
+      "attributes": {
+          "wu": 93,
+          "zhi": 91,
+          "nai": 90,
+          "ti": 108
+      },
+      "professions": [
+          "军师",
+          "将军",
+          "统帅",
+          "农民",
+          "厨师",
+          "销售",
+          "铁匠",
+          "教师",
+          "工人",
+          "保安"
+      ],
+      "description": "吹牛逼呢？你有这样的大招吗？这叫擒拿，夏侯惇咋地，夏侯惇你也只会抓小兵，吹牛逼，你只能看着你艾哥擒拿敌方将领，加纳！必抽★★★★"
+  },
+  {
+      "name": "张郃",
+      "enName": "Zhang He",
+      "soldier": "盾",
+      "details": [
+          "未知",
+          "武将",
+          "魏",
+          "男",
+          "S1",
+          "狗粮"
+      ],
+      "skills": {
+          "pugong": "击退",
+          "nuqi": "范围伤害",
+          "zhuiji": [
+              "击退",
+              "无"
+          ],
+          "beidong": "我方全体防御<span>中量</span>增加",
+          "yuanzhu": "我方全体防御<span>中量</span>增加"
+      },
+      "attributes": {
+          "wu": 87,
+          "zhi": 73,
+          "nai": 84,
+          "ti": 87
+      },
+      "professions": [
+          "农民",
+          "铁匠",
+          "教师",
+          "工人",
+          "保安"
+      ],
+      "description": ""
+  },
+  {
+      "name": "于禁",
+      "enName": "Yu Jin",
+      "soldier": "枪",
+      "details": [
+          "未知",
+          "武将",
+          "魏",
+          "男",
+          "S1",
+          "狗粮"
+      ],
+      "skills": {
+          "pugong": "浮空",
+          "nuqi": "浮空",
+          "zhuiji": [
+              "倒地",
+              "无"
+          ],
+          "beidong": "我方全体防御<span>中量</span>增加",
+          "yuanzhu": "我方全体防御<span>中量</span>增加"
+      },
+      "attributes": {
+          "wu": 87,
+          "zhi": 72,
+          "nai": 85,
+          "ti": 86
+      },
+      "professions": [
+          "农民",
+          "铁匠",
+          "教师",
+          "工人",
+          "保安"
+      ],
+      "description": ""
+  },
+  {
+      "name": "徐晃",
+      "enName": "Xu Huang",
+      "soldier": "刀",
+      "details": [
+          "未知",
+          "武将",
+          "魏",
+          "男",
+          "S1",
+          "狗粮"
+      ],
+      "skills": {
+          "pugong": "倒地",
+          "nuqi": "浮空",
+          "zhuiji": [
+              "倒地",
+              "无"
+          ],
+          "beidong": "我方全体攻击<span>中量</span>增加",
+          "yuanzhu": "我方全体攻击<span>中量</span>增加"
+      },
+      "attributes": {
+          "wu": 90,
+          "zhi": 64,
+          "nai": 86,
+          "ti": 82
+      },
+      "professions": [
+          "军师",
+          "将军",
+          "统帅",
+          "农民",
+          "铁匠",
+          "教师",
+          "工人",
+          "保安"
+      ],
+      "description": ""
+  },
+  {
+      "name": "曹洪",
+      "enName": "Cao Hong",
+      "soldier": "枪",
+      "details": [
+          "未知",
+          "武将",
+          "魏",
+          "男",
+          "S1",
+          "废物"
+      ],
+      "skills": {
+          "pugong": "倒地",
+          "nuqi": "浮空",
+          "zhuiji": [
+
+          ],
+          "beidong": "",
+          "yuanzhu": ""
+      },
+      "attributes": {
+          "wu": 75,
+          "zhi": 70,
+          "nai": 76,
+          "ti": 71
+      },
+      "professions": [
+
+      ],
+      "description": ""
+  },
+  {
+      "name": "李典",
+      "enName": "Li Dian",
+      "soldier": "枪",
+      "details": [
+          "未知",
+          "武将",
+          "魏",
+          "男",
+          "S1",
+          "废物"
+      ],
+      "skills": {
+          "pugong": "浮空",
+          "nuqi": "浮空",
+          "zhuiji": [
+
+          ],
+          "beidong": "",
+          "yuanzhu": ""
+      },
+      "attributes": {
+          "wu": 72,
+          "zhi": 71,
+          "nai": 72,
+          "ti": 78
+      },
+      "professions": [
+
+      ],
+      "description": ""
+  },
+  {
+      "name": "乐进",
+      "enName": "Yue Jin",
+      "soldier": "盾",
+      "details": [
+          "未知",
+          "武将",
+          "魏",
+          "男",
+          "S1",
+          "废物"
+      ],
+      "skills": {
+          "pugong": "浮空",
+          "nuqi": "",
+          "zhuiji": [
+
+          ],
+          "beidong": "",
+          "yuanzhu": ""
+      },
+      "attributes": {
+          "wu": 62,
+          "zhi": 46,
+          "nai": 67,
+          "ti": 60
+      },
+      "professions": [
+
+      ],
+      "description": ""
+  },
+  {
+      "name": "王朗",
+      "enName": "Wang Lang",
+      "soldier": "盾",
+      "details": [
+          "未知",
+          "武将",
+          "魏",
+          "男",
+          "S1",
+          "废物"
+      ],
+      "skills": {
+          "pugong": "击退",
+          "nuqi": "",
+          "zhuiji": [
+
+          ],
+          "beidong": "",
+          "yuanzhu": ""
+      },
+      "attributes": {
+          "wu": 27,
+          "zhi": 71,
+          "nai": 44,
+          "ti": 51
+      },
+      "professions": [
+
+      ],
+      "description": "第二个跟诸葛亮较劲被气死的人"
+  },
+  {
+      "name": "孙策",
+      "enName": "Sun Ce",
+      "soldier": "刀",
+      "details": [
+          "江东",
+          "武将",
+          "吴",
+          "男",
+          "S1",
+          "名将"
+      ],
+      "skills": {
+          "pugong": "浮空",
+          "nuqi": "燃烧",
+          "zhuiji": [
+              "击退",
+              "倒地"
+          ],
+          "beidong": "血量低于33%时获得霸体",
+          "yuanzhu": "我方第一个血量低于50%的将领获得霸体"
+      },
+      "attributes": {
+          "wu": 93,
+          "zhi": 69,
+          "nai": 92,
+          "ti": 105
+      },
+      "professions": [
+          "军师",
+          "将军",
+          "统帅",
+          "农民",
+          "铁匠",
+          "教师",
+          "工人",
+          "保安"
+      ],
+      "description": "被动霸体，火凤合体技素材，问鼎被陆逊替代，随缘抽★★★"
+  },
+  {
+      "name": "周瑜",
+      "enName": "Zhou Yu",
+      "soldier": "弓",
+      "details": [
+          "江东",
+          "谋士",
+          "吴",
+          "男",
+          "S1",
+          "名将(四皇)"
+      ],
+      "skills": {
+          "pugong": "浮空",
+          "nuqi": "燃烧",
+          "zhuiji": [
+              "浮空",
+              "浮空"
+          ],
+          "beidong": "燃烧持续时间<span>中大量</span>增加",
+          "yuanzhu": "燃烧持续时间<span>中量</span>增加"
+      },
+      "attributes": {
+          "wu": 78,
+          "zhi": 98,
+          "nai": 91,
+          "ti": 90
+      },
+      "professions": [
+          "军师",
+          "将军",
+          "统帅",
+          "农民",
+          "厨师",
+          "销售",
+          "铁匠",
+          "教师",
+          "工人",
+          "保安"
+      ],
+      "description": "东吴大都督一代目，第一个跟诸葛亮较劲被气死的人，火凤合体技核心，必抽★★★★★"
+  },
+  {
+      "name": "太史慈",
+      "enName": "Tai Shici",
+      "soldier": "弓",
+      "details": [
+          "江东",
+          "武将",
+          "吴",
+          "男",
+          "S1",
+          "名将"
+      ],
+      "skills": {
+          "pugong": "击退",
+          "nuqi": "倒地",
+          "zhuiji": [
+              "浮空",
+              "击退"
+          ],
+          "beidong": "破防时会向后翻滚，<span>微量</span>冷却时间",
+          "yuanzhu": "破防时会向后翻滚，<span>少量</span>冷却时间"
+      },
+      "attributes": {
+          "wu": 94,
+          "zhi": 64,
+          "nai": 87,
+          "ti": 110
+      },
+      "professions": [
+          "军师",
+          "将军",
+          "统帅",
+          "农民",
+          "铁匠",
+          "教师",
+          "工人",
+          "保安"
+      ],
+      "description": "S1暴击队队员，每次都能苟活到最后，S3逐步被替代，随缘抽★★"
+  },
+  {
+      "name": "孙坚",
+      "enName": "Sun Jian",
+      "soldier": "刀",
+      "details": [
+          "江东",
+          "武将",
+          "吴",
+          "男",
+          "S1",
+          "名将"
+      ],
+      "skills": {
+          "pugong": "倒地",
+          "nuqi": "倒地",
+          "zhuiji": [
+              "倒地",
+              "浮空"
+          ],
+          "beidong": "我方吴国将领暴击率<span>中量</span>增加",
+          "yuanzhu": "我方吴国将领暴击率<span>中量</span>增加"
+      },
+      "attributes": {
+          "wu": 91,
+          "zhi": 74,
+          "nai": 90,
+          "ti": 110
+      },
+      "professions": [
+          "军师",
+          "将军",
+          "统帅",
+          "农民",
+          "铁匠",
+          "教师",
+          "工人",
+          "保安"
+      ],
+      "description": "江东猛虎，暴击队、火凤援助都有一席之地，随缘抽★★★"
+  },
+  {
+      "name": "大乔",
+      "enName": "Da Qiao",
+      "soldier": "枪",
+      "details": [
+          "江东",
+          "谋士",
+          "吴",
+          "女",
+          "S1",
+          "限定名将"
+      ],
+      "skills": {
+          "pugong": "浮空",
+          "nuqi": "回血",
+          "zhuiji": [
+              "浮空",
+              "击退"
+          ],
+          "beidong": "复活我方将领，每场战斗最多3次，恢复<span>少量</span>血量",
+          "yuanzhu": "复活我方将领，每场战斗最多3次，恢复<span>少量</span>血量"
+      },
+      "attributes": {
+          "wu": 57,
+          "zhi": 92,
+          "nai": 89,
+          "ti": 92
+      },
+      "professions": [
+          "军师",
+          "将军",
+          "统帅",
+          "农民",
+          "厨师",
+          "销售",
+          "教师"
+      ],
+      "description": "您猜怎么着，老东汉人起来了，就zhei一出，必须尝尝大乔的奶，火凤、孙刘、女团合体技是顿顿离不开啊，必抽★★★★★"
+  },
+  {
+      "name": "小乔",
+      "enName": "Xiao Qiao",
+      "soldier": "弓",
+      "details": [
+          "江东",
+          "谋士",
+          "吴",
+          "女",
+          "S1",
+          "限定名将(稀有)"
+      ],
+      "skills": {
+          "pugong": "击退",
+          "nuqi": "燃烧",
+          "zhuiji": [
+              "浮空",
+              "倒地"
+          ],
+          "beidong": "燃烧伤害<span>大量</span>增加",
+          "yuanzhu": "燃烧伤害<span>中量</span>增加"
+      },
+      "attributes": {
+          "wu": 64,
+          "zhi": 89,
+          "nai": 91,
+          "ti": 93
+      },
+      "professions": [
+          "军师",
+          "将军",
+          "统帅",
+          "农民",
+          "厨师",
+          "销售",
+          "教师"
+      ],
+      "description": "大乔老妹，火凤合体技核心，必抽★★★★★"
+  },
+  {
+      "name": "甘宁",
+      "enName": "Gan Ning",
+      "soldier": "刀",
+      "details": [
+          "江东",
+          "武将",
+          "吴",
+          "男",
+          "S2",
+          "名将"
+      ],
+      "skills": {
+          "pugong": "倒地",
+          "nuqi": "倒地",
+          "zhuiji": [
+              "倒地",
+              "浮空"
+          ],
+          "beidong": "攻击残血敌人时，暴击率<span>大量</span>增加",
+          "yuanzhu": "我方将领残血时，暴击率<span>中量</span>增加"
+      },
+      "attributes": {
+          "wu": 96,
+          "zhi": 76,
+          "nai": 87,
+          "ti": 108
+      },
+      "professions": [
+          "军师",
+          "将军",
+          "统帅",
+          "农民",
+          "铁匠",
+          "教师",
+          "工人",
+          "保安"
+      ],
+      "description": "没啥卵用，火凤合体技实在没人可以用他，爱抽不抽★★"
+  },
+  {
+      "name": "周泰",
+      "enName": "Zhou Tai",
+      "soldier": "盾",
+      "details": [
+          "江东",
+          "武将",
+          "吴",
+          "男",
+          "S2",
+          "限定名将"
+      ],
+      "skills": {
+          "pugong": "击退",
+          "nuqi": "队友释放大招时，把敌人拉拽到伤害范围内",
+          "zhuiji": [
+              "击退",
+              "浮空"
+          ],
+          "beidong": "濒死无敌，持续一段时间，<span>中量</span>冷却时间",
+          "yuanzhu": "被动效果附加给队友"
+      },
+      "attributes": {
+          "wu": 90,
+          "zhi": 47,
+          "nai": 98,
+          "ti": 109
+      },
+      "professions": [
+          "军师",
+          "将军",
+          "统帅",
+          "农民",
+          "铁匠",
+          "教师",
+          "工人",
+          "保安"
+      ],
+      "description": "又是加强又是重做，依旧是歪瓜裂枣，别抽"
+  },
+  {
+      "name": "孙权",
+      "enName": "Sun Quan",
+      "soldier": "刀",
+      "details": [
+          "江东",
+          "谋士",
+          "吴",
+          "男",
+          "S3",
+          "名将(稀有)"
+      ],
+      "skills": {
+          "pugong": "击退",
+          "nuqi": "倒地",
+          "zhuiji": [
+              "击退",
+              "浮空"
+          ],
+          "beidong": "血量大于60%时，我方将领怒气恢复速度<span>大量</span>增加，敌方将领怒气恢复速度<span>大量</span>减少",
+          "yuanzhu": "我方总血量大于50%时，我方将领怒气恢复速度<span>大量</span>增加，敌方将领怒气恢复速度<span>大量</span>减少"
+      },
+      "attributes": {
+          "wu": 79,
+          "zhi": 93,
+          "nai": 87,
+          "ti": 99
+      },
+      "professions": [
+          "军师",
+          "将军",
+          "统帅",
+          "农民",
+          "厨师",
+          "销售",
+          "教师"
+      ],
+      "description": "曹操和刘备的儿子，继承了双亲被动，孙刘、火凤合体技援助，不抽后悔一辈子★★★★★"
+  },
+  {
+      "name": "孙尚香",
+      "enName": "Sun Shangxiang",
+      "soldier": "弓",
+      "details": [
+          "江东",
+          "武将",
+          "吴",
+          "女",
+          "S3",
+          "限定名将"
+      ],
+      "skills": {
+          "pugong": "击退",
+          "nuqi": "浮空",
+          "zhuiji": [
+              "浮空",
+              "击退"
+          ],
+          "beidong": "受到<span>微量</span>伤害次数后，恢复抵御",
+          "yuanzhu": "我方血量最低的将领受到<span>少量</span>伤害次数后，恢复抵御"
+      },
+      "attributes": {
+          "wu": 93,
+          "zhi": 67,
+          "nai": 95,
+          "ti": 91
+      },
+      "professions": [
+          "军师",
+          "将军",
+          "统帅",
+          "农民",
+          "铁匠",
+          "教师",
+          "工人",
+          "保安"
+      ],
+      "description": "被动神技，女团合体技援助，必抽★★★★"
+  },
+  {
+      "name": "吕蒙",
+      "enName": "Lv Meng",
+      "soldier": "枪",
+      "details": [
+          "江东",
+          "谋士",
+          "吴",
+          "男",
+          "问鼎",
+          "名将"
+      ],
+      "skills": {
+          "pugong": "浮空",
+          "nuqi": "强化自身伤害，普攻范围增加(参考闪电鞭)，必定破防，持续时间X",
+          "zhuiji": [
+              "浮空",
+              "击退"
+          ],
+          "beidong": "释放大招后，我方将领获得闪避，持续<span>中量</span>时间",
+          "yuanzhu": "释放大招后，我方将领获得闪避，持续<span>中量</span>时间"
+      },
+      "attributes": {
+          "wu": 88,
+          "zhi": 94,
+          "nai": 87,
+          "ti": 92
+      },
+      "professions": [
+          "军师",
+          "将军",
+          "统帅",
+          "农民",
+          "厨师",
+          "销售",
+          "铁匠",
+          "教师",
+          "工人",
+          "保安"
+      ],
+      "description": "东吴大都督二代目，大招被动强力，必抽★★★★"
+  },
+  {
+      "name": "陆逊",
+      "enName": "Lu Xun",
+      "soldier": "弓",
+      "details": [
+          "江东",
+          "谋士",
+          "吴",
+          "男",
+          "问鼎",
+          "限定名将"
+      ],
+      "skills": {
+          "pugong": "浮空",
+          "nuqi": "燃烧",
+          "zhuiji": [
+              "敌方追击",
+              "浮空"
+          ],
+          "beidong": "释放大招有<span>大量</span>概率不消耗怒气",
+          "yuanzhu": "释放大招有<span>大量</span>概率不消耗怒气"
+      },
+      "attributes": {
+          "wu": 76,
+          "zhi": 97,
+          "nai": 87,
+          "ti": 95
+      },
+      "professions": [
+          "军师",
+          "将军",
+          "统帅",
+          "农民",
+          "厨师",
+          "销售",
+          "教师"
+      ],
+      "description": "东吴大都督四代目，追击被动机制很强，火凤合体技核心，必抽★★★★★"
+  },
+  {
+      "name": "黄盖",
+      "enName": "Huang Gai",
+      "soldier": "盾",
+      "details": [
+          "江东",
+          "武将",
+          "吴",
+          "男",
+          "S1",
+          "狗粮"
+      ],
+      "skills": {
+          "pugong": "倒地",
+          "nuqi": "浮空",
+          "zhuiji": [
+              "倒地",
+              "无"
+          ],
+          "beidong": "血量小于50%，防御<span>中量</span>增加",
+          "yuanzhu": "我方全体防御<span>中量</span>增加"
+      },
+      "attributes": {
+          "wu": 83,
+          "zhi": 70,
+          "nai": 80,
+          "ti": 95
+      },
+      "professions": [
+          "农民",
+          "铁匠",
+          "教师",
+          "工人",
+          "保安"
+      ],
+      "description": ""
+  },
+  {
+      "name": "鲁肃",
+      "enName": "Lu Su",
+      "soldier": "弓",
+      "details": [
+          "江东",
+          "谋士",
+          "吴",
+          "男",
+          "S1",
+          "狗粮"
+      ],
+      "skills": {
+          "pugong": "击退",
+          "nuqi": "击退",
+          "zhuiji": [
+              "浮空",
+              "无"
+          ],
+          "beidong": "我方全体血量<span>中量</span>增加",
+          "yuanzhu": "我方全体血量<span>中量</span>增加"
+      },
+      "attributes": {
+          "wu": 56,
+          "zhi": 91,
+          "nai": 66,
+          "ti": 70
+      },
+      "professions": [
+          "军师",
+          "将军",
+          "统帅",
+          "农民",
+          "厨师",
+          "销售",
+          "教师"
+      ],
+      "description": "东吴大都督三代目，孙刘联盟创始人之一，策划欠你一个名将"
+  },
+  {
+      "name": "凌统",
+      "enName": "Ling Tong",
+      "soldier": "枪",
+      "details": [
+          "江东",
+          "武将",
+          "吴",
+          "男",
+          "S1",
+          "狗粮"
+      ],
+      "skills": {
+          "pugong": "浮空",
+          "nuqi": "浮空",
+          "zhuiji": [
+              "击退",
+              "无"
+          ],
+          "beidong": "暴击率<span>中量</span>增加",
+          "yuanzhu": "我方将领暴击率<span>中量</span>增加"
+      },
+      "attributes": {
+          "wu": 89,
+          "zhi": 58,
+          "nai": 82,
+          "ti": 87
+      },
+      "professions": [
+          "军师",
+          "将军",
+          "统帅",
+          "农民",
+          "铁匠",
+          "教师",
+          "工人",
+          "保安"
+      ],
+      "description": "S1暴击队的神，唯一媲美名将的狗粮"
+  },
+  {
+      "name": "程普",
+      "enName": "Cheng Pu",
+      "soldier": "盾",
+      "details": [
+          "江东",
+          "武将",
+          "吴",
+          "男",
+          "S1",
+          "废物"
+      ],
+      "skills": {
+          "pugong": "浮空",
+          "nuqi": "吃包子",
+          "zhuiji": [
+
+          ],
+          "beidong": "",
+          "yuanzhu": ""
+      },
+      "attributes": {
+          "wu": 71,
+          "zhi": 71,
+          "nai": 76,
+          "ti": 75
+      },
+      "professions": [
+
+      ],
+      "description": ""
+  },
+  {
+      "name": "徐盛",
+      "enName": "Xu Sheng",
+      "soldier": "弓",
+      "details": [
+          "江东",
+          "武将",
+          "吴",
+          "男",
+          "S1",
+          "废物"
+      ],
+      "skills": {
+          "pugong": "浮空",
+          "nuqi": "浮空",
+          "zhuiji": [
+
+          ],
+          "beidong": "",
+          "yuanzhu": ""
+      },
+      "attributes": {
+          "wu": 76,
+          "zhi": 59,
+          "nai": 73,
+          "ti": 73
+      },
+      "professions": [
+
+      ],
+      "description": "中东来的，喜欢自爆"
+  },
+  {
+      "name": "诸葛瑾",
+      "enName": "Zhu Gejin",
+      "soldier": "弓",
+      "details": [
+          "江东",
+          "谋士",
+          "吴",
+          "男",
+          "S1",
+          "废物"
+      ],
+      "skills": {
+          "pugong": "击退",
+          "nuqi": "",
+          "zhuiji": [
+
+          ],
+          "beidong": "",
+          "yuanzhu": ""
+      },
+      "attributes": {
+          "wu": 34,
+          "zhi": 64,
+          "nai": 53,
+          "ti": 49
+      },
+      "professions": [
+
+      ],
+      "description": "诸葛亮兄弟"
+  },
+  {
+      "name": "朱桓",
+      "enName": "Zhu Huan",
+      "soldier": "弓",
+      "details": [
+          "江东",
+          "武将",
+          "吴",
+          "男",
+          "S1",
+          "废物"
+      ],
+      "skills": {
+          "pugong": "浮空",
+          "nuqi": "",
+          "zhuiji": [
+
+          ],
+          "beidong": "",
+          "yuanzhu": ""
+      },
+      "attributes": {
+          "wu": 65,
+          "zhi": 50,
+          "nai": 58,
+          "ti": 66
+      },
+      "professions": [
+
+      ],
+      "description": ""
+  },
+  {
+      "name": "吕布",
+      "enName": "Lv Bu",
+      "soldier": "枪",
+      "details": [
+          "河北",
+          "武将",
+          "群",
+          "男",
+          "S1",
+          "名将(四皇)"
+      ],
+      "skills": {
+          "pugong": "浮空",
+          "nuqi": "浮空",
+          "zhuiji": [
+              "浮空",
+              "击退"
+          ],
+          "beidong": "受到<span>少量</span>伤害次数后获得霸体，持续6秒",
+          "yuanzhu": "我方将领受到<span>中量</span>伤害次数后获得霸体，持续5秒"
+      },
+      "attributes": {
+          "wu": 100,
+          "zhi": 26,
+          "nai": 92,
+          "ti": 93
+      },
+      "professions": [
+          "军师",
+          "将军",
+          "统帅",
+          "农民",
+          "铁匠",
+          "教师",
+          "工人",
+          "保安"
+      ],
+      "description": "三国题材游戏吕布没有不牛逼的，武力天花板，龙舞蝶合体技核心，必抽★★★★★"
+  },
+  {
+      "name": "张角",
+      "enName": "Zhang Jiao",
+      "soldier": "刀",
+      "details": [
+          "河北",
+          "谋士",
+          "群",
+          "男",
+          "S1",
+          "名将"
+      ],
+      "skills": {
+          "pugong": "浮空",
+          "nuqi": "召唤黄巾军",
+          "zhuiji": [
+              "浮空",
+              "倒地"
+          ],
+          "beidong": "释放追击时，额外对<span>3个</span>敌方将领造成伤害",
+          "yuanzhu": "释放追击时，额外对<span>3个</span>敌方将领造成伤害"
+      },
+      "attributes": {
+          "wu": 34,
+          "zhi": 95,
+          "nai": 88,
+          "ti": 94
+      },
+      "professions": [
+          "军师",
+          "将军",
+          "统帅",
+          "农民",
+          "厨师",
+          "销售",
+          "教师"
+      ],
+      "description": "S1的神，大招召唤黄巾军群殴，追后击能打断任何技能，可惜面有了兵种强化，可以抽★★★☆"
+  },
+  {
+      "name": "董卓",
+      "enName": "Dong Zhuo",
+      "soldier": "盾",
+      "details": [
+          "西凉",
+          "武将",
+          "群",
+          "男",
+          "S1",
+          "名将"
+      ],
+      "skills": {
+          "pugong": "倒地",
+          "nuqi": "浮空",
+          "zhuiji": [
+              "倒地",
+              "浮空"
+          ],
+          "beidong": "血量低于50%时，恢复<span>大量</span>血量",
+          "yuanzhu": "我方第一个血量低于50%的将领，恢复<span>大量</span>血量"
+      },
+      "attributes": {
+          "wu": 85,
+          "zhi": 65,
+          "nai": 88,
+          "ti": 120
+      },
+      "professions": [
+          "农民",
+          "铁匠",
+          "教师",
+          "工人",
+          "保安"
+      ],
+      "description": "纯种的废物，不知道废物这俩字咋写可以看看这位，别抽"
+  },
+  {
+      "name": "袁绍",
+      "enName": "Yuan Shao",
+      "soldier": "弓",
+      "details": [
+          "中原",
+          "武将",
+          "群",
+          "男",
+          "S1",
+          "名将"
+      ],
+      "skills": {
+          "pugong": "倒地",
+          "nuqi": "浮空",
+          "zhuiji": [
+              "倒地",
+              "浮空"
+          ],
+          "beidong": "血量大于30%时，我方全体防御<span>中量</span>增加",
+          "yuanzhu": "我方全体血量、防御<span>大量</span>增加"
+      },
+      "attributes": {
+          "wu": 84,
+          "zhi": 76,
+          "nai": 94,
+          "ti": 114
+      },
+      "professions": [
+          "农民",
+          "铁匠",
+          "教师",
+          "工人",
+          "保安"
+      ],
+      "description": "老芒果的化身，比董卓强点，起码能援助，别抽"
+  },
+  {
+      "name": "貂蝉",
+      "enName": "Diao Chan",
+      "soldier": "刀",
+      "details": [
+          "河北",
+          "谋士",
+          "群",
+          "女",
+          "S1",
+          "限定名将"
+      ],
+      "skills": {
+          "pugong": "倒地",
+          "nuqi": "魅惑",
+          "zhuiji": [
+              "击退",
+              "浮空"
+          ],
+          "beidong": "攻击<span>少量</span>次数触发魅惑效果",
+          "yuanzhu": "我方女将领攻击<span>中量</span>次数触发魅惑效果"
+      },
+      "attributes": {
+          "wu": 46,
+          "zhi": 91,
+          "nai": 88,
+          "ti": 94
+      },
+      "professions": [
+          "军师",
+          "将军",
+          "统帅",
+          "农民",
+          "厨师",
+          "销售",
+          "教师"
+      ],
+      "description": "中规中矩，龙蝶舞合体技凑数的，必抽★★★★"
+  },
+  {
+      "name": "贾诩",
+      "enName": "Jia Xu",
+      "soldier": "弓",
+      "details": [
+          "西凉",
+          "谋士",
+          "群",
+          "男",
+          "S2",
+          "限定名将(稀有)"
+      ],
+      "skills": {
+          "pugong": "击退",
+          "nuqi": "浮空",
+          "zhuiji": [
+              "击退",
+              "浮空"
+          ],
+          "beidong": "中毒的敌方将领持续减少<span>中量</span>怒气",
+          "yuanzhu": "中毒的敌方将领持续减少<span>中量</span>怒气"
+      },
+      "attributes": {
+          "wu": 46,
+          "zhi": 98,
+          "nai": 89,
+          "ti": 92
+      },
+      "professions": [
+          "军师",
+          "将军",
+          "统帅",
+          "农民",
+          "厨师",
+          "销售",
+          "教师"
+      ],
+      "description": "重做前被动保命神技，重做后人送外号小刘备，随缘抽★★★"
+  },
+  {
+      "name": "高顺",
+      "enName": "Gao Shun",
+      "soldier": "刀",
+      "details": [
+          "中原",
+          "武将",
+          "群",
+          "男",
+          "S2",
+          "限定名将"
+      ],
+      "skills": {
+          "pugong": "击退",
+          "nuqi": "浮空",
+          "zhuiji": [
+              "击退",
+              "击退"
+          ],
+          "beidong": "我方全体破防率<span>大量</span>增加",
+          "yuanzhu": "我方全体破防率<span>大量</span>增加"
+      },
+      "attributes": {
+          "wu": 92,
+          "zhi": 63,
+          "nai": 91,
+          "ti": 108
+      },
+      "professions": [
+          "军师",
+          "将军",
+          "统帅",
+          "农民",
+          "铁匠",
+          "教师",
+          "工人",
+          "保安"
+      ],
+      "description": "开机甲的男人，抽也行不抽也行★★★☆"
+  },
+  {
+      "name": "华佗",
+      "enName": "Hua Tuo",
+      "soldier": "盾",
+      "details": [
+          "中原",
+          "谋士",
+          "群",
+          "男",
+          "S2",
+          "名将"
+      ],
+      "skills": {
+          "pugong": "倒地",
+          "nuqi": "回血",
+          "zhuiji": [
+              "敌方追击",
+              "击退"
+          ],
+          "beidong": "每隔<span>中量</span>时间，我方血量最低的将领获得1个葫芦，濒死恢复<span>大量</span>血量，每个将领最多收到3个葫芦",
+          "yuanzhu": "每隔<span>大量</span>时间，我方血量最低的将领获得1个葫芦，濒死恢复<span>中量</span>血量，每个将领最多收到3个葫芦"
+      },
+      "attributes": {
+          "wu": 34,
+          "zhi": 92,
+          "nai": 86,
+          "ti": 95
+      },
+      "professions": [
+          "军师",
+          "将军",
+          "统帅",
+          "农民",
+          "厨师",
+          "销售",
+          "教师"
+      ],
+      "description": "援助之神，必抽★★★★★"
+  },
+  {
+      "name": "蔡文姬",
+      "enName": "Cai Wenji",
+      "soldier": "盾",
+      "details": [
+          "中原",
+          "谋士",
+          "群",
+          "女",
+          "S3",
+          "限定名将"
+      ],
+      "skills": {
+          "pugong": "击退",
+          "nuqi": "魅惑",
+          "zhuiji": [
+              "击退",
+              "浮空"
+          ],
+          "beidong": "每隔<span>大量</span>时间，进入摇滚状态，持续<span>中量</span>时间",
+          "yuanzhu": "每隔<span>大量</span>时间，进入摇滚状态，持续<span>中量</span>时间"
+      },
+      "attributes": {
+          "wu": 58,
+          "zhi": 89,
+          "nai": 97,
+          "ti": 93
+      },
+      "professions": [
+          "军师",
+          "将军",
+          "统帅",
+          "农民",
+          "厨师",
+          "销售",
+          "教师"
+      ],
+      "description": "魅惑全场，女团合体技核心，必抽★★★★★"
+  },
+  {
+      "name": "陈宫",
+      "enName": "Chen Gong",
+      "soldier": "枪",
+      "details": [
+          "中原",
+          "谋士",
+          "群",
+          "男",
+          "S3",
+          "名将"
+      ],
+      "skills": {
+          "pugong": "击退",
+          "nuqi": "击退",
+          "zhuiji": [
+              "浮空",
+              "浮空"
+          ],
+          "beidong": "暴击伤害<span>大量</span>增加，若智力高于对方，必定暴击",
+          "yuanzhu": "我方将领智力高于对方，伤害<span>中量</span>增加"
+      },
+      "attributes": {
+          "wu": 42,
+          "zhi": 96,
+          "nai": 82,
+          "ti": 95
+      },
+      "professions": [
+          "军师",
+          "将军",
+          "统帅",
+          "农民",
+          "厨师",
+          "销售",
+          "教师"
+      ],
+      "description": "PVP神将，PVE你会发现对方张飞都比你智力高，随缘抽★★★"
+  },
+  {
+      "name": "左慈",
+      "enName": "Zuo Ci",
+      "soldier": "盾",
+      "details": [
+          "中原",
+          "谋士",
+          "群",
+          "男",
+          "问鼎",
+          "限定名将"
+      ],
+      "skills": {
+          "pugong": "浮空",
+          "nuqi": "强化我方将领伤害，附带闪避",
+          "zhuiji": [
+              "浮空",
+              "击退"
+          ],
+          "beidong": "我方将领受到<span>中量</span>次数攻击后，恢复抵御",
+          "yuanzhu": "我方将领受到<span>中量</span>次数攻击后，恢复抵御"
+      },
+      "attributes": {
+          "wu": 42,
+          "zhi": 95,
+          "nai": 93,
+          "ti": 91
+      },
+      "professions": [
+          "军师",
+          "将军",
+          "统帅",
+          "农民",
+          "厨师",
+          "销售",
+          "教师"
+      ],
+      "description": "人送外号小孙尚香，万金油，可以抽★★★★"
+  },
+  {
+      "name": "于吉",
+      "enName": "Yu Ji",
+      "soldier": "盾",
+      "details": [
+          "江东",
+          "谋士",
+          "群",
+          "男",
+          "问鼎",
+          "名将"
+      ],
+      "skills": {
+          "pugong": "浮空",
+          "nuqi": "随机",
+          "zhuiji": [
+              "随机",
+              "随机"
+          ],
+          "beidong": "大招、追击增加<span>大量</span>伤害",
+          "yuanzhu": "大招、追击增加<span>大量</span>伤害"
+      },
+      "attributes": {
+          "wu": 37,
+          "zhi": 94,
+          "nai": 87,
+          "ti": 92
+      },
+      "professions": [
+          "军师",
+          "将军",
+          "统帅",
+          "农民",
+          "厨师",
+          "销售",
+          "教师"
+      ],
+      "description": "随机大招，最优追击，弥补追击无法闭环的队伍，可以抽★★★"
+  },
+  {
+      "name": "颜良",
+      "enName": "Yan Liang",
+      "soldier": "刀",
+      "details": [
+          "未知",
+          "武将",
+          "群",
+          "男",
+          "S1",
+          "狗粮"
+      ],
+      "skills": {
+          "pugong": "浮空",
+          "nuqi": "击退",
+          "zhuiji": [
+              "浮空",
+              "无"
+          ],
+          "beidong": "暴击率<span>大量</span>增加",
+          "yuanzhu": "我方将领暴击率<span>中量</span>增加"
+      },
+      "attributes": {
+          "wu": 88,
+          "zhi": 40,
+          "nai": 88,
+          "ti": 82
+      },
+      "professions": [
+          "农民",
+          "铁匠",
+          "教师",
+          "工人",
+          "保安"
+      ],
+      "description": ""
+  },
+  {
+      "name": "文丑",
+      "enName": "Wen Chou",
+      "soldier": "刀",
+      "details": [
+          "未知",
+          "武将",
+          "群",
+          "男",
+          "S1",
+          "狗粮"
+      ],
+      "skills": {
+          "pugong": "浮空",
+          "nuqi": "浮空",
+          "zhuiji": [
+              "击退",
+              "无"
+          ],
+          "beidong": "攻击<span>中量</span>增加",
+          "yuanzhu": "我方全体攻击<span>中量</span>增加"
+      },
+      "attributes": {
+          "wu": 89,
+          "zhi": 25,
+          "nai": 83,
+          "ti": 86
+      },
+      "professions": [
+          "军师",
+          "将军",
+          "统帅",
+          "农民",
+          "铁匠",
+          "教师",
+          "工人",
+          "保安"
+      ],
+      "description": ""
+  },
+  {
+      "name": "司马徽",
+      "enName": "Si Mahui",
+      "soldier": "弓",
+      "details": [
+          "未知",
+          "谋士",
+          "群",
+          "男",
+          "S1",
+          "狗粮"
+      ],
+      "skills": {
+          "pugong": "击退",
+          "nuqi": "击退",
+          "zhuiji": [
+              "浮空",
+              "无"
+          ],
+          "beidong": "我方全体血量<span>中量</span>增加",
+          "yuanzhu": "我方全体血量<span>中量</span>增加"
+      },
+      "attributes": {
+          "wu": 17,
+          "zhi": 94,
+          "nai": 63,
+          "ti": 72
+      },
+      "professions": [
+          "军师",
+          "将军",
+          "统帅",
+          "农民",
+          "厨师",
+          "销售",
+          "教师"
+      ],
+      "description": ""
+  },
+  {
+      "name": "华雄",
+      "enName": "Hua Xiong",
+      "soldier": "刀",
+      "details": [
+          "未知",
+          "武将",
+          "群",
+          "男",
+          "S1",
+          "废物"
+      ],
+      "skills": {
+          "pugong": "浮空",
+          "nuqi": "击退",
+          "zhuiji": [
+
+          ],
+          "beidong": "",
+          "yuanzhu": ""
+      },
+      "attributes": {
+          "wu": 75,
+          "zhi": 56,
+          "nai": 72,
+          "ti": 75
+      },
+      "professions": [
+
+      ],
+      "description": ""
+  },
+  {
+      "name": "马腾",
+      "enName": "Ma Teng",
+      "soldier": "盾",
+      "details": [
+          "未知",
+          "武将",
+          "群",
+          "男",
+          "S1",
+          "废物"
+      ],
+      "skills": {
+          "pugong": "倒地",
+          "nuqi": "浮空",
+          "zhuiji": [
+
+          ],
+          "beidong": "",
+          "yuanzhu": ""
+      },
+      "attributes": {
+          "wu": 75,
+          "zhi": 52,
+          "nai": 70,
+          "ti": 77
+      },
+      "professions": [
+
+      ],
+      "description": ""
+  },
+  {
+      "name": "张梁",
+      "enName": "Zhang Liang",
+      "soldier": "枪",
+      "details": [
+          "未知",
+          "武将",
+          "群",
+          "男",
+          "S1",
+          "废物"
+      ],
+      "skills": {
+          "pugong": "浮空",
+          "nuqi": "",
+          "zhuiji": [
+
+          ],
+          "beidong": "",
+          "yuanzhu": ""
+      },
+      "attributes": {
+          "wu": 69,
+          "zhi": 60,
+          "nai": 63,
+          "ti": 57
+      },
+      "professions": [
+
+      ],
+      "description": ""
+  },
+  {
+      "name": "邢道荣",
+      "enName": "Xing Daorong",
+      "soldier": "刀",
+      "details": [
+          "未知",
+          "武将",
+          "群",
+          "男",
+          "S1",
+          "神"
+      ],
+      "skills": {
+          "pugong": "倒地",
+          "nuqi": "",
+          "zhuiji": [
+
+          ],
+          "beidong": "",
+          "yuanzhu": ""
+      },
+      "attributes": {
+          "wu": 57,
+          "zhi": 24,
+          "nai": 65,
+          "ti": 67
+      },
+      "professions": [
+
+      ],
+      "description": "地表最强核心，造成成吨伤害"
+  }
+]
