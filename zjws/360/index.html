@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@photo-sphere-viewer/core/index.min.css" />
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@photo-sphere-viewer/markers-plugin/index.min.css" />
+  <title>毕业照</title>
+  <style>
+    html,
+    body,
+    #viewer {
+      height: 100%;
+      overflow: hidden;
+    }
+    body {
+      margin: 0;
+    }
+  </style>
+</head>
+<body>
+  <div id="viewer"></div>
+  <script type="importmap">
+    {
+      "imports": {
+        "three": "https://cdn.jsdelivr.net/npm/three/build/three.module.js",
+        "@photo-sphere-viewer/core": "https://cdn.jsdelivr.net/npm/@photo-sphere-viewer/core/index.module.js",
+        "@photo-sphere-viewer/markers-plugin": "https://cdn.jsdelivr.net/npm/@photo-sphere-viewer/markers-plugin/index.module.js"
+      }
+    }
+  </script>
+  <script type="module">
+    import { Viewer } from '@photo-sphere-viewer/core'
+    import { MarkersPlugin } from '@photo-sphere-viewer/markers-plugin'
+    const viewer = new Viewer({
+      container: document.querySelector('#viewer'),
+      panorama: '4.jpg',
+      caption: '毕业照作者：damon琪，技术支持：FeverNode',
+      plugins: [
+        [MarkersPlugin, {
+          markers: [{
+            id: 1,
+            image: 'https://photo-sphere-viewer-data.netlify.app/assets/pictos/pin-blue.png',
+            size: { width: 30, height: 30 },
+            position: { pitch: 0.08, yaw: -0.12 },
+            tooltip: {
+              content: '盟主：宝勒伊残云',
+              className: 'custom-tooltip',
+              position: 'top',
+              trigger: 'click',
+            }
+          }, {
+            id: 2,
+            image: 'https://photo-sphere-viewer-data.netlify.app/assets/pictos/pin-blue.png',
+            size: { width: 30, height: 30 },
+            position: { pitch: 0.25, yaw: 0.78 },
+            tooltip: {
+              content: '人性学教授：闪总',
+              className: 'custom-tooltip',
+              position: 'top',
+              trigger: 'click'
+            }
+          }, {
+            id: 3,
+            image: 'https://photo-sphere-viewer-data.netlify.app/assets/pictos/pin-blue.png',
+            size: { width: 30, height: 30 },
+            position: { pitch: 0.3, yaw: 2.16 },
+            tooltip: {
+              content: '毕业照作者：damon琪',
+              className: 'custom-tooltip',
+              position: 'top',
+              trigger: 'click'
+            }
+          }, {
+            id: 4,
+            image: 'https://photo-sphere-viewer-data.netlify.app/assets/pictos/pin-blue.png',
+            size: { width: 30, height: 30 },
+            position: { pitch: 0.4, yaw: 2.62 },
+            tooltip: {
+              content: '技术支持：FeverNode',
+              className: 'custom-tooltip',
+              position: 'top',
+              trigger: 'click'
+            }
+          }, {
+            id: 5,
+            image: 'https://photo-sphere-viewer-data.netlify.app/assets/pictos/pin-blue.png',
+            size: { width: 30, height: 30 },
+            position: { pitch: -0.05, yaw: 3.68 },
+            tooltip: {
+              content: '副盟(人事)：漠。',
+              className: 'custom-tooltip',
+              position: 'top',
+              trigger: 'click'
+            }
+          }, {
+            id: 6,
+            image: 'https://photo-sphere-viewer-data.netlify.app/assets/pictos/pin-blue.png',
+            size: { width: 30, height: 30 },
+            position: { pitch: 0.18, yaw: -0.4 },
+            tooltip: {
+              content: '副盟(宣战)：夏侯穆',
+              className: 'custom-tooltip',
+              position: 'top',
+              trigger: 'click',
+            }
+          }, {
+            id: 7,
+            image: 'https://photo-sphere-viewer-data.netlify.app/assets/pictos/pin-blue.png',
+            size: { width: 30, height: 30 },
+            position: { pitch: 0.1, yaw: 4.5 },
+            tooltip: {
+              content: '副盟(未知)：狐狸',
+              className: 'custom-tooltip',
+              position: 'top',
+              trigger: 'click'
+            }
+          }]
+        }]
+      ]
+    })
+  </script>
+</body>
+</html>
