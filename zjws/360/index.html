@@ -25,16 +25,27 @@
       "imports": {
         "three": "https://cdn.jsdelivr.net/npm/three/build/three.module.js",
         "@photo-sphere-viewer/core": "https://cdn.jsdelivr.net/npm/@photo-sphere-viewer/core/index.module.js",
-        "@photo-sphere-viewer/markers-plugin": "https://cdn.jsdelivr.net/npm/@photo-sphere-viewer/markers-plugin/index.module.js"
+        "@photo-sphere-viewer/markers-plugin": "https://cdn.jsdelivr.net/npm/@photo-sphere-viewer/markers-plugin/index.module.js",
+        "@photo-sphere-viewer/equirectangular-tiles-adapter": "https://cdn.jsdelivr.net/npm/@photo-sphere-viewer/equirectangular-tiles-adapter/index.module.js"
       }
     }
   </script>
   <script type="module">
     import { Viewer } from '@photo-sphere-viewer/core'
     import { MarkersPlugin } from '@photo-sphere-viewer/markers-plugin'
+    import { EquirectangularTilesAdapter } from '@photo-sphere-viewer/equirectangular-tiles-adapter'
     const viewer = new Viewer({
       container: document.querySelector('#viewer'),
-      panorama: '1.jpg',
+      adapter: EquirectangularTilesAdapter,
+      panorama: {
+        width: 14000,
+        cols: 16,
+        rows: 8,
+        baseUrl: `1.jpg`,
+        tileUrl: (col, row) => {
+            return `img/image${col+1}x${row+1}.jpg`
+        },
+      },
       caption: '毕业照作者：damon琪，技术支持：FeverNode',
       plugins: [
         [MarkersPlugin, {
